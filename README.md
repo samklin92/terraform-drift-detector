@@ -1,4 +1,5 @@
 # Terraform Drift Detector
+<img width="1536" height="1024" alt="Terraform drift detector architecture" src="https://github.com/user-attachments/assets/16764e51-4839-4374-860a-001f75d718fc" />
 
 An intelligent Terraform drift detection system that compares Terraform’s desired state against live AWS infrastructure and uses Claude to explain, classify, and risk-rank detected drift in plain English.
 
